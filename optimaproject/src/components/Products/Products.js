@@ -10,6 +10,11 @@ class Products extends React.Component {
             sortedData: this.props.data.products
         }
     }
+
+    componentDidMount() {
+        document.title = `Products`;
+    }
+
     render() {
 
         const sortAscendingTitle = () => {

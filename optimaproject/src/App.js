@@ -8,7 +8,7 @@ import NavBar from "./components/Menu/NavBar"
 import AboutUs from "./components/AboutUs/AboutUs"
 import Company from "./components/CompanyStructure/CompanyStructure"
 import Career from "./components/Career/Career"
-import Products from "./components/Products/Produsts"
+import Products from "./components/Products/Products"
 import Services from "./components/Services/Services"
 import Contact from "./components/Contact/Contact"
 
